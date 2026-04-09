@@ -1,10 +1,10 @@
 function Projetos() {
   const projetos = [
     {
-      titulo: "Portfólio Profissional v2",
+      titulo: "Portfólio Profissional V1",
       descricao: "Site pessoal moderno focado em UI/UX, utilizando HTML5, CSS3 avançado e JavaScript.",
       tecnologias: ["html5", "css3-alt", "js"], 
-      link: "https://github.com/paykuhan/Portfolio-MVP"
+      link: "https://paykuhan.github.io/Portfolio-MVP-V1/"
     },
     {
       titulo: "Calculadora Minimalista",
